@@ -15,6 +15,7 @@
     border-right-color: transparent;
     outline-color: transparent;
     width: 100%;
+    margin-bottom: 10px;
   }
   
   .signupParentDiv button {
@@ -37,4 +38,6 @@
     justify-content: center;
     cursor: pointer;
   }
-  
+  .signupParentDiv label{
+    margin-bottom: 0px;
+  }
