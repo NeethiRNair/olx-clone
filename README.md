@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Olx Clone React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is an olx clone app developed with React.js.
 
 ## Available Scripts
 
